@@ -2,6 +2,7 @@
 A simple yet quite compact hotel management desktop application I developed for my C# project.
 
 ::Points to Note::
+
 Admin has to be pre set in the database. No option given for admin registration because the anyone with Admin role is given master control.
 Admin can add employees and manage almost everything.
 
